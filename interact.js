@@ -5866,7 +5866,7 @@
         documents.push(doc);
     }
 
-    listenToDocument(document);
+    // listenToDocument(document);
 
     function indexOf (array, target) {
         for (var i = 0, len = array.length; i < len; i++) {
